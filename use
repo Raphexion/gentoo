@@ -1,0 +1,77 @@
+xinerama
+Add support for querying multi-monitor screen geometry through the Xinerama API
+
+filecaps
+Linux capabilities library is required for i3status to be able to read net bandwith
+
+cxx
+Build support for C++ (bindings, extra libraries, code generation, ...)
+
+emacs
+Add support for GNU Emacs
+
+ftp
+Add FTP (File Transfer Protocol) support
+
+gif
+Add GIF image support
+
+git
+Enable git (version control system) support
+
+graphviz
+Add support for the Graphviz library
+
+guile
+Add support for the guile Scheme interpreter
+
+imap
+Add support for IMAP (Internet Mail Application Protocol)
+
+inotify
+Enable inotify filesystem monitoring support
+
+ios
+Enable support for Apple's iDevice with iOS operating system (iPad, iPhone, iPod, etc)
+
+ipod
+Enable support for iPod device access
+
+ipv6
+Add support for IP version 6
+
+jack
+Add support for the JACK Audio Connection Kit
+
+java
+Add support for Java
+
+javascript
+Enable javascript support
+
+jpeg
+Add JPEG image support
+
+jpeg2k
+Support for JPEG 2000, a wavelet-based image compression format
+
+kerberos
+Add kerberos support
+
+ldap
+Add LDAP support (Lightweight Directory Access Protocol)
+
+libcaca
+Add support for colored ASCII-art graphics
+
+libffi
+Enable support for Foreign Function Interface library
+
+libnotify
+Enable desktop notification support
+
+lm_sensors
+Add linux lm_sensors (hardware sensors) support
+
+lua
+Enable Lua scripting support
